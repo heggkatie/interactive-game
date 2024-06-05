@@ -12,5 +12,5 @@ Rules
 Outputs      ->    Inputs
 - blue LED     ->    press the left button
 - green LED    ->    press the right button
-- red LED      ->    increase the temperature
-- yellow LED   ->    increase the sound
+- red LED      ->    increase the temperature (the threshold is the observed temperature + 5)
+- yellow LED   ->    increase the sound (the threshold is the observed soundLevel + 10)
