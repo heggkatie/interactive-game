@@ -8,7 +8,7 @@ Rules
 - Speed increases at each level
 - Flipping the switch pauses the game (change)
 
-- Outputs      ->    Inputs
+  Outputs      ->    Inputs
 - blue LED     ->    press the left button
 - green LED    ->    press the right button
 - red LED      ->    increase the temperature
